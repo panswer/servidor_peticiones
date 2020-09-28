@@ -1,0 +1,22 @@
+{
+  "name": "server-request",
+  "version": "1.0.0",
+  "description": "servidor para realizar peticiones multiples a otro servidor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "request",
+    "peticiones",
+    "servidor"
+  ],
+  "author": "Ricardo Mejias",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "colors": "^1.4.0",
+    "express": "^4.17.1"
+  }
+}
